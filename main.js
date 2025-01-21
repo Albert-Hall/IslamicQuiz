@@ -130,13 +130,13 @@ function checkAnswer() {
 			questionIndex++;
 			clearPage();
 			showQuestion();
-			} , 500);
+			} , 2000);
 	}
 		else {
 			setTimeout(() => {
 				clearPage();
 				showResult();
-			}, 500)
+			}, 2000)
 		}
 	
 }
