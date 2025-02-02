@@ -294,13 +294,13 @@ function checkAnswer() {
 			questionIndex++;
 			clearPage();
 			showQuestion();
-		}, 2000);
+		}, 100);
 	}
 	else {
 		setTimeout(() => {
 			clearPage();
 			showResult();
-		}, 2000)
+		}, 100)
 	}
 }
 
