@@ -181,7 +181,7 @@ h2 {
 
 .forOpenQuestion input {
 	margin-top: 15px;
-	width: 90vw;
+	width: auto;
 	height: 40px;
 	border-radius: 5px;
 	border: 2px solid rgb(125, 196, 244);
