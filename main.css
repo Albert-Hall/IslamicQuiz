@@ -178,3 +178,22 @@ h2 {
 		transform: translate3d(4px, 0, 0);
 	}
 }
+
+.forOpenQuestion input {
+	margin-top: 15px;
+	width: 536px;
+	height: 40px;
+	border-radius: 5px;
+	border: 2px solid rgb(125, 196, 244);
+	box-shadow: 3px;
+}
+.forOpenQuestion {
+	display: flex;
+	flex-direction: column;
+	justify-items: center;
+	align-items: center;
+	margin: 10px;
+}
+img {
+	width: 200px
+}
